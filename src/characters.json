@@ -1,0 +1,226 @@
+[
+    {
+        "id": 1,
+        "clicked" : false,
+        "name": "Pot of Greed",
+        "image": "https://ms.yugipedia.com//thumb/f/f2/PotofGreed-YGLD-EN-C-1E.png/413px-PotofGreed-YGLD-EN-C-1E.png",
+        "type": "Normal Spell"
+      },
+      {
+        "id": 2,
+        "clicked" : false,
+        "name": "Sangan",
+        "image": "https://ms.yugipedia.com//thumb/1/1f/Sangan-TOCH-EN-R-1E.png/406px-Sangan-TOCH-EN-R-1E.png",
+        "type": "Effect Monster"
+      },
+      {
+        "id": 3,
+        "clicked" : false,
+        "name": "Dark Ruler No More",
+        "image": "https://ms.yugipedia.com//5/57/DarkRulerNoMore-SDCH-EN-C-1E.png",
+        "type": "Normal Spell"
+      },
+      {
+        "id": 4,
+        "clicked" : false,
+        "name": "Solemn Strike",
+        "image": "https://ms.yugipedia.com//a/ac/SolemnStrike-SR10-EN-C-1E.png",
+        "type": "Counter Trap"
+      },
+      {
+        "id": 5,
+        "clicked" : false,
+        "name": "Madolche Anjelly",
+        "image": "https://ms.yugipedia.com//4/48/MadolcheAnjelly-BLAR-EN-ScR-1E.png",
+        "type": "Effect Monster"
+      },
+      {
+        "id": 6,
+        "clicked" : false,
+        "name": "Psy-Frame Driver",
+        "image": "https://ms.yugipedia.com//0/01/PSYFrameDriver-TOCH-EN-R-1E.png",
+        "type": "Normal Monster"
+      },
+      {
+        "id": 7,
+        "clicked" : false,
+        "name": "Red-Eyes Dark Dragoon",
+        "image": "https://ms.yugipedia.com//8/8e/RedEyesDarkDragoon-MP20-EN-UR-1E.png",
+        "type": "Fusion Effect Monster"
+      },
+      {
+        "id": 8,
+        "clicked" : false,
+        "name": "Cosmic Cyclone",
+        "image": "https://ms.yugipedia.com//2/2f/CosmicCyclone-SBCB-EN-C-1E.png",
+        "type": "Quick-Play Spell"
+      },
+      {
+        "id": 9,
+        "clicked" : false,
+        "name": "Accesscode Talker",
+        "image": "https://ms.yugipedia.com//7/74/AccesscodeTalker-ETCO-EN-ScR-1E.png",
+        "type": "Link Effect Monster"
+      },
+      {
+        "id": 10,
+        "clicked" : false,
+        "name": "Dingirsu, the Orcust of the Evening Star",
+        "image": "https://ms.yugipedia.com//f/f8/DingirsutheOrcustoftheEveningStar-DUOV-EN-UR-1E.png",
+        "type": "Xyz Effect Monster"
+      },
+      {
+        "id": 11,
+        "clicked" : false,
+        "name": "Borreload Savage Dragon",
+        "image": "https://ms.yugipedia.com//2/22/BorreloadSavageDragon-MP20-EN-PScR-1E.png",
+        "type": "Synchro Effect Monster"
+      },
+      {
+        "id": 12,
+        "clicked" : false,
+        "name": "Herald of Ultimateness",
+        "image": "https://ms.yugipedia.com//2/23/HeraldofUltimateness-GEIM-EN-R-1E.png",
+        "type": "Ritual Effect Monster"
+      },
+      {
+        "id": 13,
+        "clicked" : false,
+        "name": "Tri-Brigade Ferrijit the Barren Blossom",
+        "image": "https://ms.yugipedia.com//5/56/TriBrigadeFerrijittheBarrenBlossom-PHRA-EN-UR-1E.png",
+        "type": "Link Effect Monster"
+      },
+      {
+        "id": 14,
+        "clicked" : false,
+        "name": "Mystic Mine",
+        "image": "https://ms.yugipedia.com//9/93/MysticMine-MP20-EN-PScR-1E.png",
+        "type": "Field Spell"
+      },
+      {
+        "id": 15,
+        "clicked" : false,
+        "name": "Trap Trick",
+        "image": "https://ms.yugipedia.com//4/44/TrapTrick-SR10-EN-C-1E.png",
+        "type": "Normal Trap Card"
+      },
+      {
+        "id": 16,
+        "clicked" : false,
+        "name": "Summon Limit",
+        "image": "https://ms.yugipedia.com//4/49/SummonLimit-BLHR-EN-UR-1E.png",
+        "type": "Continuous Trap"
+      },
+      {
+        "id": 17,
+        "clicked" : false,
+        "name": "Dante, Traveler of the Burning Abyss",
+        "image": "https://ms.yugipedia.com//b/bc/DanteTraveleroftheBurningAbyss-LEHD-EN-C-1E.png",
+        "type": "Xyz Effect Monster"
+      },
+      {
+        "id": 18,
+        "clicked" : false,
+        "name": "Live Twin Sunny's Snitch",
+        "image": "https://ms.yugipedia.com//4/42/LiveTwinSunnysSnitch-DAMA-EN-SR-1E.png",
+        "type": "Continuous Spell"
+      },
+      {
+        "id": 19,
+        "clicked" : false,
+        "name": "DoSolfachord Coolia",
+        "image": "https://ms.yugipedia.com//f/f7/DoSolfachordCoolia-ANGU-EN-UR-1E.png",
+        "type": "Pendulum Effect Monster"
+      },
+      {
+        "id": 20,
+        "clicked" : false,
+        "name": "Performapal Pendulum Sorcerer",
+        "image": "https://ms.yugipedia.com//f/f3/PerformapalPendulumSorcerer-LED6-EN-C-1E.png",
+        "type": "Pendulum Effect Monster"
+      },
+      {
+        "id": 21,
+        "clicked" : false,
+        "name": "Performapal Pendulum Sorcerer",
+        "image": "https://ms.yugipedia.com//f/f3/PerformapalPendulumSorcerer-LED6-EN-C-1E.png",
+        "type": "Pendulum Effect Monster"
+      },
+      {
+        "id": 22,
+        "clicked" : false,
+        "name": "Ash Blossom & Joyous Spring",
+        "image": "https://ms.yugipedia.com//a/ae/AshBlossomJoyousSpring-MAGO-EN-PGR-1E-AA.png",
+        "type": "Effect Monster"
+      },
+      {
+        "id": 23,
+        "clicked" : false,
+        "name": "Infinite Impermanence",
+        "image": "https://ms.yugipedia.com//0/0b/InfiniteImpermanence-MAGO-EN-PGR-1E.png",
+        "type": "Normal Trap"
+      },
+      {
+        "id": 24,
+        "clicked" : false,
+        "name": "Gravedigger's Trap Hole",
+        "image": "https://ms.yugipedia.com//0/0a/GravediggersTrapHole-ETCO-EN-ScR-1E.png",
+        "type": "Normal Trap"
+      },
+      {
+        "id": 25,
+        "clicked" : false,
+        "name": "Divine Arsenal AA-ZEUS - Sky Thunder",
+        "image": "https://ms.yugipedia.com//2/2d/DivineArsenalAAZEUSSkyThunder-PHRA-EN-ScR-1E.png",
+        "type": "Normal Trap"
+      },
+      {
+        "id": 26,
+        "clicked" : false,
+        "name": "Melffy Rabby",
+        "image": "https://ms.yugipedia.com//f/fe/MelffyRabby-ROTD-EN-C-1E.png",
+        "type": "Normal Monster"
+      },
+      {
+        "id": 27,
+        "clicked" : false,
+        "name": "Knightmare Unicorn",
+        "image": "https://ms.yugipedia.com//c/c8/KnightmareUnicorn-GEIM-EN-R-1E.png",
+        "type": "Link Effect Monster"
+      },
+      {
+        "id": 28,
+        "clicked" : false,
+        "name": "Miscellaneousaurus",
+        "image": "https://ms.yugipedia.com//8/88/Miscellaneousaurus-MAGO-EN-PGR-1E.png",
+        "type": "Effect Monster"
+      },
+      {
+        "id": 29,
+        "clicked" : false,
+        "name": "Gunkan Suship Shari",
+        "image": "https://ms.yugipedia.com//f/f9/GunkanSushipShari-DAMA-EN-C-1E.png",
+        "type": "Normal Monster"
+      },
+      {
+        "id": 30,
+        "clicked" : false,
+        "name": "Raigeki",
+        "image": "https://ms.yugipedia.com//6/68/Raigeki-SDCH-EN-SR-1E.png",
+        "type": "Normal Spell"
+      },
+      {
+        "id": 31,
+        "clicked" : false,
+        "name": "Aleister the Invoker",
+        "image": "https://ms.yugipedia.com//4/4a/AleistertheInvoker-SHVA-EN-ScR-1E.png",
+        "type": "Effect Monster"
+      },
+      {
+        "id": 32,
+        "clicked" : false,
+        "name": "Virtual World Kyubi - Shenshen",
+        "image": "https://ms.yugipedia.com//a/ae/VirtualWorldKyubiShenshen-PHRA-EN-ScR-1E.png",
+        "type": "Synchro Effect Monster"
+      }
+ ]
