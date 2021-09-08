@@ -142,9 +142,9 @@
       {
         "id": 21,
         "clicked" : false,
-        "name": "Performapal Pendulum Sorcerer",
-        "image": "https://ms.yugipedia.com//f/f3/PerformapalPendulumSorcerer-LED6-EN-C-1E.png",
-        "type": "Pendulum Effect Monster"
+        "name": "Called by the Grave",
+        "image": "https://ms.yugipedia.com//e/e3/CalledbytheGrave-MAGO-EN-R-1E.png",
+        "type": "Quick-Play Spell"
       },
       {
         "id": 22,
